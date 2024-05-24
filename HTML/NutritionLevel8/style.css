@@ -1,0 +1,16 @@
+.container{
+    
+     width: 30%; 
+    border: 4px solid black; 
+    padding: 10px;
+    
+
+}
+p{
+    display: flex;
+    justify-content: space-between;
+}
+body{
+    display: flex;
+    justify-content: center;
+}
